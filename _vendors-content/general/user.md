@@ -1,3 +1,5 @@
+always battery
+
 ---
 manufacturer:
     - general
