@@ -1,3 +1,4 @@
+tecno spark 20
 ---
 manufacturer:
     - general
